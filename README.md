@@ -1,12 +1,11 @@
-# KissNet
+# KissNet 
+#### Keep it simple,stupid.
 
-A mmo game server base on dotnet core.
+## A mmo game server base on dotnet core.
 
-Keep it simple,stupid.
+## 一套基于.net core的MMO游戏服务器
 
-一套基于.net core的MMO游戏服务器
-
-本项目动力来源：
+#### 本项目动力来源：
 
 * cxx开发人员紧缺，新手入门门槛高
 * .net core已经全平台开跑，C#相对开发效率更高
